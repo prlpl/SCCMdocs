@@ -15,7 +15,7 @@ ms.collection: M365-identity-device-management
 
 # Desktop Analytics data privacy
 
-Desktop Analytics is fully committed to customer data privacy, centering on these tenets:
+Desktop Analytics is fully committed to customer data privacy, centering on these tenents:
 
 - **Transparency:** We fully document the Windows diagnostic events. Review them with your company's security and compliance teams. The Windows Diagnostic Data Viewer lets you see diagnostic data sent from a given device. For more information, see [Diagnostic Data Viewer Overview](https://docs.microsoft.com/windows/configuration/diagnostic-data-viewer-overview).  
 
